@@ -5,16 +5,15 @@ Este é o repositório que contém os resultados do meu projeto de Ciência de D
 ## Exploratory Analysis of Offers
 
 Nesta parte, realizei uma análise exploratória de dados das ofertas "lightning_deal". O objetivo é extrair insights valiosos:
-
-- Arquivo de Dados: [Dados da ofertas](1_Exploratory-Analysis-Offers/dataset1.csv)
-- Notebook de Análise: [EDA_Ofertas.ipynb](1_Exploratory-Analysis-Offers/EDA_Ofertas.ipynb)
+1_ Exploratory-Analysis-Offers
+- Arquivo de Dados: [Dados da ofertas](1_%20Exploratory-Analysis-Offers/dataset1.csv)
+- Notebook de Análise: [EDA_Ofertas.ipynb](1_%20Exploratory-Analysis-Offers/EDA_Ofertas.ipynb)
 
 ## Product Similarity
 
 Na segunda parte, explorei a similaridade entre produtos usando títulos de produtos como atributos para identificar pares de produtos mais similares.
 
-- Arquivos de Dados: [Itens gerais](2_Product-Similarity/items_titles.csv), [item_titles_test.csv](Product-Similarity/dataset2_titles.csv)
-- Arquivos de Dados: [Itens principal](2_Product-Similarity/items_titles.csv), [item_titles_test.csv](Product-Similarity/dataset2__titles_test.csv)
+- Arquivos de Dados: [Itens principal](2_Product-Similarity/dataset2_titles.csv), [Itens gerais](Product-Similarity/dataset2__titles_test.csv)
 - Notebook de Análise: [Product_Similarity.ipynb](2_Product-Similarity/Product_Similarity.ipynb)
 
 ## Failure Prediction of Devices
